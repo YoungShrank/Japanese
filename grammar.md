@@ -13,10 +13,11 @@ alright,i know you must be confused about the notation.let's see some examples.
 |:---|:---|:---|
 | `<verb>`| play| action|
 | `<verb><noun>`|play games| action on a object|
-| `<verb>&<adverbial>`|happily playing;play happily| action specified by adverbial|
+| `<verb>&<adverbial>`|happily play;play happily| action specified by adverbial|
 
 i think it makes the annotation more clear.
 # grammar
 let's start with a very simple sentence.how to express "i am a chinese" in japanese? supposed you have learnt the words "わたし"(I),"ちゅうごくじん"(chinese) ,then it simply goes like this:`わたし は ちゅうごくじん です`.almost the same as english,right?it complys with the grammar `<noun1><link><noun2><voice>`,which link`<noun1>` and `<noun2>`.as for `です` there,you can temporarily 
 take it as something express the sentence's voice,specially,a statement voice.now,try to build more sentences.for example,"you are an American".
+
 

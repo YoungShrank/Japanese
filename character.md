@@ -20,5 +20,12 @@ let's cut the crap and start learning.
 ## the pronunciation
 
 
+vowels and consonants
+
+a syllable is a combination of a vowel and  a consonant or a just single vowel.it represents a single  articulation,resonance controlled by vowel and airflow controlled by consonant.(no basic,i guess it )
+the pronunciation of a hiragana or katakana only contains a single syllable.so, to learn all the hiragana's pronunciation,you only need to master the vowels and consonants.
+
 
 ## the glyph
+
+
