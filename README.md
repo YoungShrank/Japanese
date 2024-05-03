@@ -8,3 +8,11 @@ i meet a germany friend in [interpal](https://www.interpals.net).while i'm a Chi
 # attention
 this project is not a complete japanese learning guide.it is just a collection of my learning notes.the correctness of the notes is not guaranteed,but as correct as possible.
 anyhow,it's practical.
+
+# else
+
+when i am speaking English, my tongue and my brain belike:
+![](belike.jpg)
+
+
+
