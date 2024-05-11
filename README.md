@@ -11,7 +11,7 @@ anyhow,it's practical.
 
 # else
 
-when i am speaking English, my tongue and my brain belike:
+when i am speaking or typing English, my tongue and my brain belike:
 ![](belike.jpg)
 
 

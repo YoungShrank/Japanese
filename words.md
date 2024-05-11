@@ -1,4 +1,4 @@
-
+![alt text](belike.jpg)
 |type | instance |meaning|
 |:---|:---|:---|
 |\<place_pronoun\> |ここ|to designate a place|
